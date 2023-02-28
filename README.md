@@ -2,7 +2,7 @@
 
 ## Insights
 
-### box plots generated for the three different grip types - claw, fingertip, palm
+### box plots generated for grip styles - claw, fingertip, palm
 
 Median: The median 'eDPI' value for the claw grip is around 1200, which is higher than the median values for both the palm and fingertip grips (around 1100 and 900, respectively). 
 > Players who use a claw grip tend to use a higher 'eDPI' value than players who use palm or fingertip grip.
