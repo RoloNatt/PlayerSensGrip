@@ -19,3 +19,9 @@ ___________________________________________________________________
 ### box plots generated for playstyle - aim, movement
 
 > Movement Players prefer higher sensitivity while the Aim Players prefer lower sensitivity.
+
+### Count plot
+
+> Movement players prefer to play on a stretched resolution.
+
+
