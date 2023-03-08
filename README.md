@@ -16,12 +16,30 @@ Outliers: There is one outlier in the fingertip grip, with an 'eDPI' value of 12
 Range: The range of 'eDPI' values for the claw grip is the widest, with the lowest value at around 300 and the highest value at around 1900. The range for the palm grip is narrower, with the lowest value at around 800 and the highest value at 2250. The range for the fingertip grip is the narrowest, with the lowest value at around 900 and the highest value at 1200.
 ___________________________________________________________________
 
-### box plots generated for playstyle - aim, movement
+### Box plots generated for playstyle - aim, movement
 
 > Movement Players prefer higher sensitivity while the Aim Players prefer lower sensitivity.
 
 ### Count plot
 
 > Movement players prefer to play on a stretched resolution.
+
+### Histogram
+
+![image](https://user-images.githubusercontent.com/15999442/223740170-f035e076-d19a-4e8f-a0c3-440b1ac3441c.png)
+
+Also, using Shapiro-Wilk test
+
+> The distribution is **Normal**
+
+### Confidence Intervals
+p=0.85, mean = 1109.14 ± 84.05
+p=0.90, mean = 1109.14 ± 96.36
+p=0.95, mean = 1109.14 ± 115.53
+
+### Hypothesis Testing
+
+![image](https://user-images.githubusercontent.com/15999442/223740627-e83fe879-4de0-4d92-8f8d-cb1b7fc4c0d1.png)
+
 
 
