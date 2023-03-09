@@ -41,5 +41,27 @@ p=0.95, mean = 1109.14 ± 115.53
 
 ![image](https://user-images.githubusercontent.com/15999442/223740627-e83fe879-4de0-4d92-8f8d-cb1b7fc4c0d1.png)
 
+#### Student t-test
+t-value: -0.25
+> The negative t-value indicates that the mean 'eDPI' value for the 'claw' group is slightly lower than that of the 'palm' group, but this difference is not statistically significant. Therefore, we cannot conclude that one grip type is better than the other based on this data.
+
+p-value: 0.8060187480194614
+> Since the p-value is greater than the commonly used significance level of 0.05, we cannot reject the null hypothesis that the means of the two groups are equal. In other words, there is not enough evidence to suggest that the difference between the mean 'eDPI' values of the two grip types is statistically significant.
+
+#### Covariance & Correlation
+
+- between DPI and eDPI
+
+Covariance matrix:
+[[376666.66666667  48716.66666667]
+ [ 48716.66666667 128949.33333333]]
+ 
+Covariance: 48716.66666666667
+> The covariance between 'DPI' and 'eDPI' is 48716.6667, indicating a positive relationship between the two variables.
+
+Correlation: 0.22104944050197176
+> The correlation coefficient between 'DPI' and 'eDPI' is 0.221, which also suggests a positive, but weak relationship between the two variables. Since the correlation is less than 0.5, it can be interpreted as a weak correlation.
 
 
+
+The correlation coefficient between 'Grip' and 'eDPI' is 0.221, which also suggests a positive, but weak relationship between the two variables. Since the correlation is less than 0.5, it can be interpreted as a weak correlation.
