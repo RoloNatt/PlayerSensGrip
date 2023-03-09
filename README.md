@@ -48,7 +48,7 @@ t-value: -0.25
 p-value: 0.8060187480194614
 > Since the p-value is greater than the commonly used significance level of 0.05, we cannot reject the null hypothesis that the means of the two groups are equal. In other words, there is not enough evidence to suggest that the difference between the mean 'eDPI' values of the two grip types is statistically significant.
 
-#### Covariance & Correlation
+### Covariance & Correlation
 
 - between DPI and eDPI
 
